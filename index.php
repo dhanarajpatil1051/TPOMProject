@@ -7,7 +7,7 @@ include('includes/dbconnection.php');
 <html lang="zxx">
 
 <head>
-    <title>Campus Recruitment Management System|| Home Page</title>
+    <title>Training and Placement Management System|| Home Page</title>
    
     <script>
         addEventListener("load", function() {
