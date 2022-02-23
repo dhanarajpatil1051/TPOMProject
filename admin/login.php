@@ -22,7 +22,7 @@ if(isset($_POST['login']))
 <html lang="zxx">
 <head>
     
-    <title>Training and Placement 196024 Management System-Login Page</title>
+    <title>Training and Placement 4402 Management System-Login Page</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
