@@ -22,7 +22,7 @@ if(isset($_POST['login']))
 <html lang="zxx">
 <head>
     
-    <title>Training and Placement 321 Management System-Login Page</title>
+    <title>GITHUB Management System-Login Page</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
