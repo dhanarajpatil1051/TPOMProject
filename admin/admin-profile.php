@@ -24,7 +24,7 @@ if (strlen($_SESSION['crmsaid']==0)) {
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Campus Recruitment Management System-Admin Profile</title>
+    <title>TPO Management System-Admin Profile</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
