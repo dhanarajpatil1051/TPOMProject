@@ -24,7 +24,7 @@ if(isset($_POST['submit']))
 <html lang="zxx">
 <head>
     
-    <title> 196043 github test Campus Recruitment Management System-Forgot Page</title>
+    <title>Campus Recruitment Management System-Forgot Page</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
