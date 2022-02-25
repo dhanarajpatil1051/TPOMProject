@@ -21,7 +21,6 @@ if(isset($_POST['login']))
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    
     <title>Training and Placement Management System-Login Page</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
