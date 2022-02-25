@@ -14,6 +14,7 @@ if (strlen($_SESSION['crmsaid']==0)) {
    
     <title>Training and Placement Management System-View Vacancy</title>
     <!-- CSS -->
+  
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
         .loader {
