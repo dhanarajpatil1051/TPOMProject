@@ -7,7 +7,7 @@ include('includes/dbconnection.php');
 <html lang="zxx">
 
 <head>
-    <title> 196037|| Home Page</title>
+    <title>Home Page</title>
    
     <script>
         addEventListener("load", function() {
