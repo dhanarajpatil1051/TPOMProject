@@ -31,7 +31,7 @@ $pagedes=$_POST['pagedes'];
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Campus Recruitment Management System-Contact Us</title>
+    <title>Training and Placement Management System-Contact Us</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
