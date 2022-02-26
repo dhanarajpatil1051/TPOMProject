@@ -34,7 +34,7 @@ if(isset($_POST['submit']))
 <html lang="zxx">
 <head>
    
-    <title>Campus Recruitment Management System-Add Vacancy</title>
+    <title>Training and placement Management System-Add Vacancy</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
