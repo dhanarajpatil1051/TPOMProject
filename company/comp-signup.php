@@ -49,7 +49,7 @@ $msg="This email or Contact Number already associated with another account";
 <html lang="zxx">
 <head>
     
-    <title>Campus Recruitment Management System-Sign Up Page</title>
+    <title>Training and Placement Management System-Sign Up Page</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
