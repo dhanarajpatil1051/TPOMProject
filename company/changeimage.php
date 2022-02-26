@@ -38,7 +38,7 @@ $logo=md5($complogo).time().$extension;
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Campus Recruitment Management System-Change Company Logo</title>
+    <title>Training and Placement Management System-Change Company Logo</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
