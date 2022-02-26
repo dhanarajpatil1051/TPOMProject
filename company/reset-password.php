@@ -23,7 +23,7 @@ session_destroy();
 <html lang="zxx">
 <head>
     
-    <title>Campus Recruitment Management System-Reset Page</title>
+    <title>Training and Placement Management System-Reset Page</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
