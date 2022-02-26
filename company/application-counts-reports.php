@@ -12,7 +12,7 @@ if (strlen($_SESSION['crmscid']==0)) {
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Campus Recruitment Management System-Application count reports</title>
+    <title>Training and Placement Management System-Application count reports</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
