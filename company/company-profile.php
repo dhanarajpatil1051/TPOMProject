@@ -28,7 +28,7 @@ if (strlen($_SESSION['crmscid']==0)) {
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Campus Recruitment Management System-Company Profile</title>
+    <title>Training and Placement Management System-Company Profile</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
