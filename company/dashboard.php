@@ -9,7 +9,7 @@ if (strlen($_SESSION['crmscid']==0)) {
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Campus Recruitment Management System-Company Dashboard</title>
+    <title>Training and Placement Management System-Company Dashboard</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
