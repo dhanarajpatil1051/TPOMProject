@@ -40,7 +40,7 @@ $pagedes=$_POST['pagedes'];
             top: 0;
             width: 100%;
             height: 100%;
-            background-color: #F5F8FA;
+            background-color: blue;
             z-index: 9998;
             text-align: center;
         }
