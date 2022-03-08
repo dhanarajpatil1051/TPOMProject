@@ -20,18 +20,18 @@ if (strlen($_SESSION['crmsuid']==0)) {
   
      $query=mysqli_query($con, "update tbluser set FullName ='$fullname', Email='$email',MobileNumber='$mobno',StudentID='$stuid',Gender='$gender',Address='$add',Age='$age',DOB='$dob' where ID='$uid'");
     if ($query) {
-    $msg="Your profile has been updated.";
+    $msg="<h1 style=color:green;>Your profile has been updated.</h1>";
   }
   else
     {
-      $msg="Something Went Wrong. Please try again.";
+      $msg="<h1 style=color:red>Something Went Wrong. Please try again.</h1>";
     }
   }
   ?>
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Training and Placement Management System-User Profile</title>
+    <title>Training and Placement Management System-Student Profile</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
@@ -111,7 +111,7 @@ if (strlen($_SESSION['crmsuid']==0)) {
                 <div class="col">
                     <h4>
                         <i class="icon-package"></i>
-                        User Profile
+                        Student/User Profile
                     </h4>
                 </div>
             </div>
