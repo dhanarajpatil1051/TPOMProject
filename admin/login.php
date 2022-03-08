@@ -101,7 +101,7 @@ if(isset($_POST['login']))
                 <div class="col-lg-6 p-t-100">
                     <div class="text-white">
                         <h1>Welcome Back</h1>
-                        <p class="s-18 p-t-b-20 font-weight-lighter">Welcome back to Training and Placement Management System AdminPanel !!</p>
+                        <p class="s-18 p-t-b-20 font-weight-lighter">Welcome back to Training and Placement Management System AdminPanel !</p>
                     </div>
                    <form method="post" action="">
                     <p style="font-size:16px; color:red" align="center"> <?php if($msg){
