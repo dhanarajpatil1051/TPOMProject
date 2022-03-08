@@ -92,7 +92,7 @@ if(isset($_POST['login']))
 </div>
 <div id="app">
 <main>
-    <div id="primary" class="blue4 p-t-b-100 height-full responsive-phone">
+    <div id="primary" class="red">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
