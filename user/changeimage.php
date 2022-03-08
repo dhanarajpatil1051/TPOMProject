@@ -44,7 +44,7 @@ $stupic=md5($pic).time().$extension;
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Campus Recruitment Management System-Upload Image</title>
+    <title>Training and Placement Management System-Upload Image</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
