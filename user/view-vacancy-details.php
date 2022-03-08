@@ -51,7 +51,7 @@ if($query)
 <html lang="zxx">
 <head>
    
-    <title>Campus Recruitment Management System-Vacancy Detail</title>
+    <title>Training and Placement Management System-Vacancy Detail</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
