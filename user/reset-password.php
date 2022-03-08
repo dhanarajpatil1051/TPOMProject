@@ -107,16 +107,16 @@ return true;
 </div>
 <div id="app">
 <main>
-    <div id="primary" class="blue4 p-t-b-100 height-full responsive-phone">
+    <div id="primary" class="blue p-t-b-100 height-full responsive-phone">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <img src="assets/img/icon/icon-plane.png" alt="">
+                    <img src="assets/img/icon/resetpassword.png" width=400 height =400 alt="">
                 </div>
                 <div class="col-lg-6 p-t-100">
                     <div class="text-white">
                         <h1>Forgot Password</h1>
-                        <p class="s-18 p-t-b-20 font-weight-lighter">Hey Buddies if you forgot your password reset from here !</p>
+                        <p class="s-18 p-t-b-20 font-weight-lighter">If you forgot your password reset from here !</p>
                     </div>
                    <form method="post" action="" name="changepassword" onsubmit="return checkpass();">
                     <p style="font-size:16px; color:red" align="center"> <?php if($msg){
@@ -136,7 +136,7 @@ return true;
                             <div class="col-lg-12">
                                 <input type="submit" class="btn btn-success btn-lg btn-block" name="submit" value="Reset">
                                 <p class="forget-pass text-white"><a href="login.php">Already have an account</a></p>
-                                 <p class="forget-pass text-white"><a href="../index.php"> Back to Home!!</a></p>
+                                 <p class="forget-pass text-white"><a href="logout.php"> Back to Home!!</a></p>
                             </div>
                         </div>
                     </form>
