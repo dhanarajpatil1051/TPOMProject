@@ -31,7 +31,7 @@ if (strlen($_SESSION['crmsuid']==0)) {
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Campus Recruitment Management System-User Profile</title>
+    <title>Training and Placement Management System-User Profile</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
