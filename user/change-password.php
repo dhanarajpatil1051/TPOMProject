@@ -29,7 +29,7 @@ $msg="Your current password is wrong";
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
-    <title>Campus Recruitment Management System-Change Password</title>
+    <title>Training and Placement Management System-Change Password</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
