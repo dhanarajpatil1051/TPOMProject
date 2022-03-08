@@ -13,7 +13,7 @@ if (strlen($_SESSION['crmsuid']==0)) {
 <html lang="zxx">
 <head>
     
-    <title>Campus Recruitment Management System-History of applied Jobs</title>
+    <title>Training and Placement Management System-History of applied Jobs</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
