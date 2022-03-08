@@ -87,7 +87,7 @@ include('includes/dbconnection.php');
                 </div>
             </div>
            <div class="copyright mt-4">
-                <p class="copy-right text-center ">&copy; 2019 Campus Recruitment Management System.
+                <p class="copy-right text-center ">&copy; 2022 Training and Placement Management System.
                 </p>
             </div>
 
