@@ -12,10 +12,10 @@ if(isset($_POST['login']))
     if($ret>0){
       $_SESSION['crmsuid']=$ret['ID'];
        $_SESSION['fname']=$ret['FullName'];
-     header('location:../index.php');
+     header('location:User-profile.php');
     }
     else{
-    $msg="Invalid Details.";
+    $msg="<h1 style=color:red>Invalid Details.</h1>";
     }
   }
   ?>
@@ -24,7 +24,7 @@ if(isset($_POST['login']))
 <html lang="zxx">
 <head>
     
-    <title>Training and Placement Management System-Login Page</title>
+    <title>Training and PlacementSystem- Student Login Page</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
@@ -95,7 +95,7 @@ if(isset($_POST['login']))
 </div>
 <div id="app">
 <main>
-    <div id="primary" class="blue4 p-t-b-100 height-full responsive-phone">
+    <div id="primary" class="blue">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
@@ -104,7 +104,7 @@ if(isset($_POST['login']))
                 <div class="col-lg-6 p-t-100">
                     <div class="text-white">
                         <h1>Welcome Back</h1>
-                        <p class="s-18 p-t-b-20 font-weight-lighter">Hey Buddies Welcome back to Campus Recruitment Management!</p>
+                        <p class="s-18 p-t-b-20 font-weight-lighter">Welcome back to Training and Placement Management!</p>
                     </div>
                    <form method="post" action="">
                     <p style="font-size:16px; color:red" align="center"> <?php if($msg){
