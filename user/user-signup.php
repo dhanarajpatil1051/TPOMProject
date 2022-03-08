@@ -36,7 +36,7 @@ $msg="This email or Contact Number already associated with another account";
 <html lang="zxx">
 <head>
     
-    <title>Campus Recruitment Management System-Sign Up Page</title>
+    <title>Training and Placement Management System-Sign Up Page</title>
     <!-- CSS -->
     <link rel="stylesheet" href="assets/css/app.css">
     <style>
@@ -129,7 +129,7 @@ return true;
                 <div class="col-lg-6 p-t-100">
                     <div class="text-white">
                         <h1>Welcome Back</h1>
-                        <p class="s-18 p-t-b-20 font-weight-lighter">Welcome back to Campus Recruitment Management System</p>
+                        <p class="s-18 p-t-b-20 font-weight-lighter">Welcome Back to Training and Placement Management System</p>
                     </div>
                    <form  action="" name="signup" method="post" onsubmit="return checkpass();" enctype="multipart/form-data">
                     <p style="font-size:16px; color:red" align="center"> <?php if($msg){
