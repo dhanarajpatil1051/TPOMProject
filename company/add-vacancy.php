@@ -108,7 +108,7 @@ if(isset($_POST['submit']))
 <!--Sidebar End-->
 <?php include_once('includes/header.php');?>
     <div class="page has-sidebar-left">
-    <header class="blue accent-3 relative">
+    <header class="blue">
         <div class="container-fluid text-white">
             <div class="row p-t-b-10 ">
                 <div class="col">
