@@ -94,11 +94,11 @@ if(isset($_POST['login']))
 </div>
 <div id="app">
 <main>
-    <div id="primary" class="blue4 p-t-b-100 height-full responsive-phone">
+    <div id="primary" class="blue p-t-b-100 height-full responsive-phone">
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <img src="assets/img/icon/icon-plane.png" alt="">
+                    <img src="assets/img/icon/user icon1.png" alt="">
                 </div>
                 <div class="col-lg-6 p-t-100">
                     <div class="text-white">
