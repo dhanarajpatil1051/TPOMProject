@@ -99,7 +99,7 @@ if(isset($_POST['login']))
         <div class="container">
             <div class="row">
                 <div class="col-lg-6">
-                    <img src="assets/img/icon/icon-plane.png" alt="">
+                    <img src="assets/img/icon/Studentlogin.jpg" width=400 height=400 alt="">
                 </div>
                 <div class="col-lg-6 p-t-100">
                     <div class="text-white">
